@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NcRoundProcessView">
+        <attr name="processColor" format="color" />
+        <attr name="maxColor" format="color" />
+        <attr name="processWidth" format="dimension" />
+        <attr name="processTextSize" format="dimension" />
+        <attr name="processTextColor" format="color" />
+        <attr name="showProcessText" format="boolean" />
+    </declare-styleable>
+</resources>
